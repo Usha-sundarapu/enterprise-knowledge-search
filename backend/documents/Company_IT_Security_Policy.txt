@@ -1,0 +1,17 @@
+COMPANY IT SECURITY POLICY
+
+Employees must use strong passwords for all company accounts.
+
+Passwords should contain a combination of uppercase letters, lowercase letters, numbers, and special characters.
+
+Employees must not share their passwords with other people.
+
+Multi-factor authentication should be enabled for company applications whenever available.
+
+Company laptops must be protected with approved security software.
+
+Employees must not install unauthorized software on company computers.
+
+Suspicious emails, links, attachments, or security incidents should be reported to the IT security team immediately.
+
+Company data must not be copied to unauthorized personal storage devices.

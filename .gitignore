@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Node / React
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Don't upload frontend yet
+frontend/
+
+# Personal documents
+backend/documents/*.pdf
